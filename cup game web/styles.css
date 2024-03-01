@@ -1,0 +1,49 @@
+.header {
+  color: greenyellow;
+  font-family: "Kanit", sans-serif;
+  font-size: 40px;
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#bet {
+  text-align: center;
+  border-color: green;
+  border-radius: 10px;
+  height: 40px;
+}
+#confirm {
+  width: 100px;
+  background: none;
+  border-color: green;
+  border-radius: 10px;
+  font-family: "Kanit";
+  margin-top: 20px;
+}
+.input {
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.cup {
+  height: 30%;
+  width: 20%;
+  object-fit: contain;
+  rotate: 180deg;
+}
+.center2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
